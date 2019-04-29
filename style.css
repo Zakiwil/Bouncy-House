@@ -1,0 +1,49 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Rigteoous');
+</style>
+
+body {
+	margin:0;
+	padding:0;
+}
+
+h1{
+	margin:0;
+	background-color: lightblue;
+	padding-top:10%;
+	padding-bottom: 10%;
+	font-size:4.0em;
+	font-family:'righteous', cursive;
+	padding-left: 5%;
+	color: purple;
+	text-align: center;
+
+
+}
+
+#menuBar{
+	height:50px;
+	background-color:red;
+	padding-left: 20%;
+
+}
+
+.theButtons{
+	height:48px;
+	text-decoration: none;
+	font-family: 'Righteous', cursive;
+	border:0;
+	margin-right: 200px;
+	font-size: 2.0em;
+	width:10%;
+	background-color: dodgerblue;
+	color: orange;
+}
+
+#canvasDiv{
+	text-align: center;
+}
+
+#myCanvas{
+	border: 2px solid blue;
+}
